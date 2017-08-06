@@ -1,0 +1,321 @@
+@font-face {
+    font-family: PopularCafeNF;
+    src:	url(../fonts/PopularCafeNF.ttf),
+    		url(../fonts/PopularCafeNF.ttf);
+}
+
+body {
+	background: url(../images/seamless_ice_cubes.jpg) ;
+	font-family: verdana, sans-serif;
+}
+
+div#container {
+	background: url(../images/artdeco.png) no-repeat top;
+	background-color: rgba(255, 255, 255, 0.3);
+	width: 880px;
+	height: 800px;
+	margin: 35px auto;
+	box-shadow:8px 8px 15px 3px black;	
+}
+
+/* header with logo */
+
+header#logo {
+	height: 125px;
+	text-align: center;
+}
+
+#logo img {
+	width: 420px;
+	padding: 40px;
+}
+
+/* navigation */
+
+nav {
+	display: block;
+	width: 880px;
+	height: 120px;
+}
+
+nav ul, nav li, nav a {
+	text-decoration: none;
+	color: black;
+	list-style: none;
+	font-family: 'PopularCafeNF';
+	font-style: normal;
+	font-size: 1.2em;
+	padding: 2px;
+	letter-spacing: 1px;
+	margin-top: -5px;
+}
+
+nav a {
+    display: block;
+    width: 120px;
+    height: 25px;
+    background-color: rgb(0, 174, 213);
+    border: black solid 2px ;
+	padding: 7px;
+	
+	color: rgb(0, 147, 213);
+	background-color: white;
+		
+}
+
+#navigation_left {
+	float: left;
+	margin-left: 40px;
+}
+
+#navigation_right {
+	float:right;
+	margin-right: 40px;
+
+}
+
+#nav_home {
+    line-height: 25px;
+    text-align: left;
+}
+
+
+#nav_story {
+    line-height: 25px;
+    text-align: right;
+	margin-top: 5px;
+}
+
+
+#nav_photo {
+    line-height: 25px;
+    text-align: left;
+	margin-top: 5px;
+}
+
+
+#nav_about {
+    line-height: 25px;
+    text-align: right;
+}
+
+nav a:hover {
+	color: white;
+	background-color: rgb(0, 147, 213);
+}
+
+h1 {
+	margin: 0px;
+	font-size: 2em;
+	font-family: 'PopularCafeNF';
+	font-style: normal;
+}
+
+
+p {
+	font-size: 0.8em;
+	margin-top: 0.7em;
+}
+
+.red {
+	color: rgb(222, 100, 0); 
+}
+
+/* section part */
+section {
+	padding-top: 50px;
+}
+
+/* article left*/
+article {
+	display: block;
+	clear: both;
+	float: left;
+	overflow-x: hidden;
+
+	margin-left: 30px;
+	margin-top: 20px;
+
+	width: 480px;
+	height: 365px;
+	padding: 0px 15px;
+}
+
+img.float_left  {
+	border: solid 2px black;
+	float: left; 
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+
+img.float_right  {
+	border: solid 2px black;
+	float: right; 
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+h1.article {
+	font-family: 'PopularCafeNF';
+	font-style: normal;
+
+	font-size: 2em;
+
+}
+
+article p {
+	text-align: justify;
+}
+
+article#photogallery {
+	padding-top: 0px;
+}	
+
+/* aside right */
+aside {
+	display: block;
+	float: right;
+	overflow-x: hidden;
+
+
+	margin-right: 45px;
+	margin-top: 20px;
+
+	width: 250px;
+	height: 350px;
+	padding: 15px;
+	border: solid 2px black;
+	background: rgba(255, 255, 255, 0.3) url(../images/house02_aside.png) bottom/280px no-repeat;
+
+}
+
+aside h1 {
+	font-size: 2em;
+	font-family: 'PopularCafeNF';
+	font-style: normal;
+
+	background-color: black;
+	display: block;
+	width: 280px;
+	height: 40px;
+	line-height: 25px;
+	margin: -15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	color: rgb(0, 147, 213); 
+}
+
+aside h2 {
+	font-size: 1.2em;
+	font-family: 'PopularCafeNF';
+	padding-top: 10px;
+}
+
+aside h3 {
+	font-size: 1.0em;
+}
+
+aside ul {
+	font-size: 0.7em;
+	padding-left: 10px;
+}
+
+aside p {
+	text-align: center;
+}
+
+aside a {
+	text-decoration: none;
+}
+
+aside a:link {
+	color: black;
+}
+
+aside a:visited {
+	color: black;
+}
+
+aside a:hover {
+	color: rgb(0, 174, 213);
+}
+
+aside a:active {
+	color: rgb(0, 174, 213);
+}
+
+aside blockquote {
+	background-color: rgba(0, 147, 213, 0.3); 
+	font-size: 0.7em;
+	font-style: italic;
+	text-align: center;
+	padding: 5px;
+	margin: 0px;
+}
+
+/* footer */
+footer {
+	display: block;
+	clear: both;
+	float: left;
+
+	margin-left: 45px;
+
+	width: 759px;
+	height: 40px;
+	padding: 15px;
+	margin-top: -2px;
+
+	border-top: solid 2px black;
+	text-align: center;
+}
+
+footer address {
+	font-weight: bold;
+}
+
+footer p {
+	font-style: italic; 
+	padding-top: 20px;
+}
+
+/* map view */
+iframe {
+	border: solid 2px black;
+	width: 476px;
+	height:226px;
+}
+
+/* form */
+
+p.form {
+	padding-top: 10px;
+}
+label {
+ 	text-align: right;
+  	width: 125px;
+  	float: left;
+  	margin-top: 5px;
+}
+
+input {
+	width: 245px;
+	float: right;
+}
+
+textarea{
+	width: 245px;
+}
+
+/* gallery pages */
+
+.img img {
+	border: 2px solid black;
+	margin-bottom: 2px;
+}
+
+section.center {
+	text-align: center;
+	margin: auto;
+	display: block;
+}

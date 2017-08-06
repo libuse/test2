@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	backgroundColor="rgba(255,255,255,.3)"
+	galleryTitle="Photo gallery"
+	galleryHeight="75%"
+	showOpenButton="true"
+	showThumbsButton="true"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+	indexPageName="photogallery.html"
+	importCaption="NONE"
+
+>
+  <image imageURL="images/house01.jpg"
+	thumbURL="thumbs/house01.jpg"
+	linkURL="images/house01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\house01.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[House]]></caption>
+  </image>
+  <image imageURL="images/deck_view01.jpg"
+	thumbURL="thumbs/deck_view01.jpg"
+	linkURL="images/deck_view01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\deck_view01.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Deck]]></caption>
+  </image>
+  <image imageURL="images/deck_view02.jpg"
+	thumbURL="thumbs/deck_view02.jpg"
+	linkURL="images/deck_view02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\deck_view02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Deck]]></caption>
+  </image>
+  <image imageURL="images/deck_view03.jpg"
+	thumbURL="thumbs/deck_view03.jpg"
+	linkURL="images/deck_view03.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\deck_view03.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Deck ]]></caption>
+  </image>
+  <image imageURL="images/terrace_view01.jpg"
+	thumbURL="thumbs/terrace_view01.jpg"
+	linkURL="images/terrace_view01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\terrace_view01.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Terrace view]]></caption>
+  </image>
+  <image imageURL="images/terrace_view03.jpg"
+	thumbURL="thumbs/terrace_view03.jpg"
+	linkURL="images/terrace_view03.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\terrace_view03.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Terrace view]]></caption>
+  </image>
+  <image imageURL="images/terrace_view02.jpg"
+	thumbURL="thumbs/terrace_view02.jpg"
+	linkURL="images/terrace_view02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\terrace_view02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Terrace view]]></caption>
+  </image>
+  <image imageURL="images/garden01.jpg"
+	thumbURL="thumbs/garden01.jpg"
+	linkURL="images/garden01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\garden01.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Garden]]></caption>
+  </image>
+  <image imageURL="images/garden02.jpg"
+	thumbURL="thumbs/garden02.jpg"
+	linkURL="images/garden02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\garden02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Garden]]></caption>
+  </image>
+  <image imageURL="images/garden03.jpg"
+	thumbURL="thumbs/garden03.jpg"
+	linkURL="images/garden03.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\garden03.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Garden]]></caption>
+  </image>
+  <image imageURL="images/house02.jpg"
+	thumbURL="thumbs/house02.jpg"
+	linkURL="images/house02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\house02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[House from the garden]]></caption>
+  </image>
+  <image imageURL="images/road.jpg"
+	thumbURL="thumbs/road.jpg"
+	linkURL="images/road.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\road.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Road to house]]></caption>
+  </image>
+  <image imageURL="images/gate.jpg"
+	thumbURL="thumbs/gate.jpg"
+	linkURL="images/gate.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\gate.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Gate]]></caption>
+  </image>
+  <image imageURL="images/aerial01.jpg"
+	thumbURL="thumbs/aerial01.jpg"
+	linkURL="images/aerial01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\aerial01.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Aerial photo]]></caption>
+  </image>
+  <image imageURL="images/aerial02.jpg"
+	thumbURL="thumbs/aerial02.jpg"
+	linkURL="images/aerial02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\aerial02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Aerial photo - closer]]></caption>
+  </image>
+  <image imageURL="images/lighthouse01.jpg"
+	thumbURL="thumbs/lighthouse01.jpg"
+	linkURL="images/lighthouse01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\lighthouse01.jpg">
+    <title><![CDATA[Howth]]></title>
+    <caption><![CDATA[Lighthouse]]></caption>
+  </image>
+  <image imageURL="images/lighthouse02.jpg"
+	thumbURL="thumbs/lighthouse02.jpg"
+	linkURL="images/lighthouse02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\lighthouse02.jpg">
+    <title><![CDATA[Howth]]></title>
+    <caption><![CDATA[Lighthouse]]></caption>
+  </image>
+  <image imageURL="images/ground_floor.jpg"
+	thumbURL="thumbs/ground_floor.jpg"
+	linkURL="images/ground_floor.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\ground_floor.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Drawing | Ground floor plan]]></caption>
+  </image>
+  <image imageURL="images/first_floor.jpg"
+	thumbURL="thumbs/first_floor.jpg"
+	linkURL="images/first_floor.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\first_floor.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Drawing | First floor plan]]></caption>
+  </image>
+  <image imageURL="images/kitchen.jpg"
+	thumbURL="thumbs/kitchen.jpg"
+	linkURL="images/kitchen.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\kitchen.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Kitchen and dinning area]]></caption>
+  </image>
+  <image imageURL="images/kitchen_to_sunroom.jpg"
+	thumbURL="thumbs/kitchen_to_sunroom.jpg"
+	linkURL="images/kitchen_to_sunroom.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\kitchen_to_sunroom.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[From kitchen to sun room ]]></caption>
+  </image>
+  <image imageURL="images/dinning.jpg"
+	thumbURL="thumbs/dinning.jpg"
+	linkURL="images/dinning.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\dinning.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Dinning room]]></caption>
+  </image>
+  <image imageURL="images/sunroom.jpg"
+	thumbURL="thumbs/sunroom.jpg"
+	linkURL="images/sunroom.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\sunroom.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Sun room]]></caption>
+  </image>
+  <image imageURL="images/drawing_room01.jpg"
+	thumbURL="thumbs/drawing_room01.jpg"
+	linkURL="images/drawing_room01.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\drawing_room01.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Drawing room]]></caption>
+  </image>
+  <image imageURL="images/drawing_room02.jpg"
+	thumbURL="thumbs/drawing_room02.jpg"
+	linkURL="images/drawing_room02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\drawing_room02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Drawing room]]></caption>
+  </image>
+  <image imageURL="images/staircase.jpg"
+	thumbURL="thumbs/staircase.jpg"
+	linkURL="images/staircase.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\staircase.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Staircase]]></caption>
+  </image>
+  <image imageURL="images/master_bedroom.jpg"
+	thumbURL="thumbs/master_bedroom.jpg"
+	linkURL="images/master_bedroom.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\master_bedroom.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Master Bedroom]]></caption>
+  </image>
+  <image imageURL="images/bedroom02.jpg"
+	thumbURL="thumbs/bedroom02.jpg"
+	linkURL="images/bedroom02.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\bedroom02.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Bedroom 2]]></caption>
+  </image>
+  <image imageURL="images/bedroom03.jpg"
+	thumbURL="thumbs/bedroom03.jpg"
+	linkURL="images/bedroom03.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\bedroom03.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[Bedroom 3]]></caption>
+  </image>
+  <image imageURL="images/logo.jpg"
+	thumbURL="thumbs/logo.jpg"
+	linkURL="images/logo.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Liba\Comp Studies\assignment fold\house for sale\images\logo.jpg">
+    <title><![CDATA[WindGate]]></title>
+    <caption><![CDATA[logo]]></caption>
+  </image>
+</juiceboxgallery>
